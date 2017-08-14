@@ -8064,10 +8064,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MYDATA\\GitHub\\TagSolution\\TagLibrary\\TagLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagLibrary\\TagLibrary.csproj",
       "projectName": "TagLibrary",
-      "projectPath": "F:\\MYDATA\\GitHub\\TagSolution\\TagLibrary\\TagLibrary.csproj",
-      "outputPath": "F:\\MYDATA\\GitHub\\TagSolution\\TagLibrary\\obj\\",
+      "projectPath": "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagLibrary\\TagLibrary.csproj",
+      "outputPath": "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

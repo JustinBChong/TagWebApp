@@ -8077,10 +8077,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MYDATA\\GitHub\\TagSolution\\TagApp\\TagApp.csproj",
+      "projectUniqueName": "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagApp\\TagApp.csproj",
       "projectName": "TagApp",
-      "projectPath": "F:\\MYDATA\\GitHub\\TagSolution\\TagApp\\TagApp.csproj",
-      "outputPath": "F:\\MYDATA\\GitHub\\TagSolution\\TagApp\\obj\\",
+      "projectPath": "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagApp\\TagApp.csproj",
+      "outputPath": "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagApp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8088,8 +8088,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "F:\\MYDATA\\GitHub\\TagSolution\\TagLibrary\\TagLibrary.csproj": {
-              "projectPath": "F:\\MYDATA\\GitHub\\TagSolution\\TagLibrary\\TagLibrary.csproj"
+            "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagLibrary\\TagLibrary.csproj": {
+              "projectPath": "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagLibrary\\TagLibrary.csproj"
             }
           }
         }

@@ -10943,10 +10943,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MYDATA\\GitHub\\TagSolution\\TagWebApp\\TagWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagWebApp\\TagWebApp.csproj",
       "projectName": "TagWebApp",
-      "projectPath": "F:\\MYDATA\\GitHub\\TagSolution\\TagWebApp\\TagWebApp.csproj",
-      "outputPath": "F:\\MYDATA\\GitHub\\TagSolution\\TagWebApp\\obj\\",
+      "projectPath": "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagWebApp\\TagWebApp.csproj",
+      "outputPath": "C:\\Users\\jchong\\Documents\\GitHub\\TagWebApp\\TagSolution\\TagWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
