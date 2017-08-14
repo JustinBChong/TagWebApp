@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  tagwebapp:
+    image: tagwebapp
+    build:
+      context: ./TagWebApp
+      dockerfile: Dockerfile
